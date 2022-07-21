@@ -8,3 +8,5 @@ function ParentComponent() {
     function handleFirstNameChange(event) {
         setFirstName(event.target.value);
     }
+
+    function handleLastNameChange(event) {
