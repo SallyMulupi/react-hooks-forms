@@ -23,4 +23,4 @@ function ParentComponent() {
       </div>
     );
   }
-  
+  export default ParentComponent;
