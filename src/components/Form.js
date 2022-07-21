@@ -4,6 +4,8 @@ function Form() {
     firstName,
     lastName,
     handleFirstNameChange,
+    handleLastNameChange,
+  }) {
     return ( <
         form >
         <
