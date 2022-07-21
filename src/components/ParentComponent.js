@@ -6,3 +6,5 @@ function ParentComponent() {
     const [lastName, setLastName] = useState("Henry");
 
     function handleFirstNameChange(event) {
+        setFirstName(event.target.value);
+    }
