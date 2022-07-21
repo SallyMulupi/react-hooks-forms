@@ -14,3 +14,4 @@ function ParentComponent() {
     }
     return (<div>
         <Form
+        firstName={firstName}
