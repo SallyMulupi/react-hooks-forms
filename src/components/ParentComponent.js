@@ -19,3 +19,8 @@ function ParentComponent() {
         handleFirstNameChange={handleFirstNameChange}
         handleLastNameChange={handleLastNameChange}
         />
+        <DisplayData firstName={firstName} lastName={lastName} />
+      </div>
+    );
+  }
+  
