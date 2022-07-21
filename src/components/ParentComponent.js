@@ -17,3 +17,5 @@ function ParentComponent() {
         firstName={firstName}
         lastName={lastName}
         handleFirstNameChange={handleFirstNameChange}
+        handleLastNameChange={handleLastNameChange}
+        />
