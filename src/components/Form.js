@@ -11,5 +11,6 @@ return (
   <input type="text" onChange={handleFirstNameChange} value={firstName} />
   <input type="text" onChange={handleLastNameChange} value={lastName} />
    {/* <label htmlFor="newsletter">Subscribe to our Newsletter?</label>
+   <input type="checkbox" id="newsletter" onChange={handleNewsletterChange} checked={newsletter}/> */}
 )
     
