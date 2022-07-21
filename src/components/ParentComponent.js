@@ -16,3 +16,4 @@ function ParentComponent() {
         <Form
         firstName={firstName}
         lastName={lastName}
+        handleFirstNameChange={handleFirstNameChange}
